@@ -1,0 +1,26 @@
+2025-12-03 02:01:33.590 PST [3573673] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2025-12-03 02:01:33.590 PST [3573673] HINT:  Is another postmaster already running on port 8192? If not, wait a few seconds and retry.
+2025-12-03 02:01:33.590 PST [3573673] WARNING:  could not create listen socket for "localhost"
+2025-12-03 02:01:33.590 PST [3573673] FATAL:  could not create any TCP/IP sockets
+2025-12-03 02:01:33.590 PST [3573673] LOG:  database system is shut down
+2025-12-03 02:02:09.712 PST [3574196] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2025-12-03 02:02:09.712 PST [3574196] HINT:  Is another postmaster already running on port 31629? If not, wait a few seconds and retry.
+2025-12-03 02:02:09.712 PST [3574196] WARNING:  could not create listen socket for "localhost"
+2025-12-03 02:02:09.712 PST [3574196] FATAL:  could not create any TCP/IP sockets
+2025-12-03 02:02:09.712 PST [3574196] LOG:  database system is shut down
+2025-12-03 02:05:36.265 PST [3577312] LOG:  listening on IPv4 address "127.0.0.1", port 31629
+2025-12-03 02:05:36.266 PST [3577312] FATAL:  could not create lock file "/var/run/postgresql/.s.PGSQL.31629.lock": Permission denied
+2025-12-03 02:05:36.266 PST [3577312] LOG:  database system is shut down
+2025-12-03 02:42:11.286 PST [3641687] LOG:  listening on IPv4 address "127.0.0.1", port 31629
+2025-12-03 02:42:11.286 PST [3641687] LOG:  listening on Unix socket "/tmp/ngutl002/myDB/.s.PGSQL.31629"
+2025-12-03 02:42:11.297 PST [3641687] LOG:  redirecting log output to logging collector process
+2025-12-03 02:42:11.297 PST [3641687] HINT:  Future log output will appear in directory "log".
+2025-12-03 14:09:32.225 PST [267894] FATAL:  lock file "postmaster.pid" already exists
+2025-12-03 14:09:32.225 PST [267894] HINT:  Is another postmaster (PID 3641687) running in data directory "/tmp/ngutl002/myDB/data"?
+2025-12-03 14:35:16.846 PST [319404] LOG:  listening on IPv4 address "127.0.0.1", port 31629
+2025-12-03 14:35:16.846 PST [319404] FATAL:  could not create lock file "/var/run/postgresql/.s.PGSQL.31629.lock": Permission denied
+2025-12-03 14:35:16.847 PST [319404] LOG:  database system is shut down
+2025-12-03 14:37:19.557 PST [322675] LOG:  listening on IPv4 address "127.0.0.1", port 31629
+2025-12-03 14:37:19.557 PST [322675] LOG:  listening on Unix socket "/tmp/ngutl002/myDB/.s.PGSQL.31629"
+2025-12-03 14:37:19.568 PST [322675] LOG:  redirecting log output to logging collector process
+2025-12-03 14:37:19.568 PST [322675] HINT:  Future log output will appear in directory "log".

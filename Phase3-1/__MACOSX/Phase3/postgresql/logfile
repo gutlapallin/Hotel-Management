@@ -1,0 +1,7 @@
+2025-12-03 02:11:39.000 PST [3590675] LOG:  listening on IPv4 address "127.0.0.1", port 31629
+2025-12-03 02:11:39.001 PST [3590675] FATAL:  could not create lock file "/var/run/postgresql/.s.PGSQL.31629.lock": Permission denied
+2025-12-03 02:11:39.001 PST [3590675] LOG:  database system is shut down
+2025-12-03 02:12:25.502 PST [3592024] LOG:  listening on IPv4 address "127.0.0.1", port 31629
+2025-12-03 02:12:25.503 PST [3592024] LOG:  listening on Unix socket "/tmp/ngutl002/myDB/.s.PGSQL.31629"
+2025-12-03 02:12:25.513 PST [3592024] LOG:  redirecting log output to logging collector process
+2025-12-03 02:12:25.513 PST [3592024] HINT:  Future log output will appear in directory "log".
